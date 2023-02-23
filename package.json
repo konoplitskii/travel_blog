@@ -1,0 +1,18 @@
+{
+  "name": "travel_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": " index.js"
+  },
+  "author": "sv.konoplitskii",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.3",
+    "nodemon": "^2.0.20"
+  }
+}
